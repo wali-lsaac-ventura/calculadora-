@@ -3,7 +3,7 @@ calculadora básica en python.Puede hacer ecuaciones básicas ya sea sumar,resta
 
 
 
-#COMO USAR 
+# COMO USAR 
 
 Abres el programa y escribes el primer número. Después escribes el segundo número. Después escribes la operación que quieres usar: `+` para sumar, `-` para restar, `*` para multiplicar o `/` para dividir. Te muestra el resultado.
 

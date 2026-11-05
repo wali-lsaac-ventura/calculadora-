@@ -1,7 +1,7 @@
 # calculadora.py
 calculadora básica en python.Puede hacer ecuaciones básicas ya sea sumar,restar, dividir o multiplicar.Ideal para practicar
 
-COMO USARLA 
+# COMO USARLA 
 
 
 1. Abre el programa
@@ -20,7 +20,7 @@ Si escribes:
 Te sale:
 10 + 5 = 15
 
-#PARA SALIR 
+# PARA SALIR 
 
 Escribe la palabra: salir
 

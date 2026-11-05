@@ -20,7 +20,7 @@ Si escribes:
 Te sale:
 10 + 5 = 15
 
-##Para salir
+#PARA SALIR 
 
 Escribe la palabra: salir
 

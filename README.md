@@ -10,7 +10,7 @@ calculadora básica en python.Puede hacer ecuaciones básicas ya sea sumar,resta
 4. Escribe otro número
 5. Te da el resultado
 
-#EJEMPLO
+EJEMPLO
 
 Si escribes:
 - Primer número: 10
@@ -20,7 +20,7 @@ Si escribes:
 Te sale:
 10 + 5 = 15
 
-#PARA SALIR 
+PARA SALIR 
 
 Escribe la palabra: salir
 
